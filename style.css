@@ -65,6 +65,7 @@
     border:2px solid #1B4D3E;
     border-radius:25px 25px 25px 25px;
     cursor:pointer;
+    default-style:none;
 
   }
 
